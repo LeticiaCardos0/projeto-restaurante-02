@@ -1,7 +1,7 @@
-body{
-    background-color: #e7e5dc;
-    margin: 0;
-    padding: 0;
+body {
+  background-color: #e7e5dc;
+  margin: 0;
+  padding: 0;
 }
 
 .caprasimo-regular {
@@ -10,6 +10,7 @@ body{
   font-style: normal;
   text-align: center;
 }
+
 .jost-uniquifier {
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
@@ -17,47 +18,46 @@ body{
   font-style: normal;
   text-indent: 1em;
 }
-.peq{
+
+.peq {
   font-weight: bold;
   font-style: italic;
 }
 
-
 div {
-    background-color: #662222 ;
-    text-decoration: none;
-     }
-    
-.link{
-        align-items: center;
-        text-align: center;
-        margin: 6px;
-        text-decoration: none;
-        color: white;
-        font-size: 17px;
-}
-.link:hover{
-    margin: 3px;
-    font-weight: bold;
- 
+  background-color: #662222;
+  text-decoration: none;
 }
 
-.botao{
-    border-style: solid;
-    border-color: #351212;
-    border-width: 1px;
-    border-radius: 4px;
-    background-color: #662222;
-    padding: 3px;
-    margin: 3px;
-    width: 200px;
-    height: 55px;
+.link {
+  align-items: center;
+  text-align: center;
+  margin: 6px;
+  text-decoration: none;
+  color: #e7e5dc;
+  font-size: 17px;
+}
+
+.link:hover {
+  margin: 3px;
+  font-weight: bold;
 
 }
-.text-botao{
-        text-decoration: none;
-        color: #e7e5dc;
-        font-size: 18px;
-        
 
-    }
+.botao {
+  border-style: solid;
+  border-color: #351212;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: #662222;
+  padding: 3px;
+  margin: 3px;
+  width: 200px;
+  height: 55px;
+
+}
+.text-botao {
+  text-decoration: none;
+  color: #e7e5dc;
+  font-size: 18px;
+}

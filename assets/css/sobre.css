@@ -3,7 +3,6 @@ body {
     margin: 0px;
     padding: 10px;
 }
-
 .home {
     text-decoration: none;
     color: #e7e5dc;
@@ -16,53 +15,36 @@ body {
     background-color: #662222;
 }
 
-h1 {
+h1{
     font-family: "Caprasimo", serif;
     font-weight: 400;
     font-style: normal;
 }
-
-h2 {
+h2{
     font-family: "Jost", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+    height: 20px;
 }
-
-.botao {
-    background-color: #000;
-    border-radius: 8px;
-}
-
-.botao:hover {
-    background-color: #662222;
-    border-color: #351212;
-}
-
-.text {
-    color: #e7e5dc;
-    text-decoration: none;
+p{
     font-family: "Jost", sans-serif;
-    font-size: 16px;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-indent: 8px;
+}
+.fala{
+    font-style: italic;
     font-weight: 500;
 }
-
-h3 {
-    font-family: "Jost", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
-    height: 10px;
-}
-
-p {
-    font-family: "Jost", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
-}
-
-img {
-    width: 200px;
+.restaurante{
+    width: 250px;
     border-radius: 15px;
+    
+}
+.chef{
+    width: 250px;
+    border-radius: 15px;
+    
 }
