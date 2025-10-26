@@ -1,0 +1,29 @@
+body{
+    background-color: #e7e5dc ;
+}
+.caprasimo-regular {
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.jost-uniquifier {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  text-indent: 1em;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font-family: "Jost", sans-serif;
+    font-weight: bold;
+    padding: 3px;
+    border: 2px solid;
+    border-color: #351212;
+    border-radius: 6px;
+    background-color: #662222;
+    
+}
+  
