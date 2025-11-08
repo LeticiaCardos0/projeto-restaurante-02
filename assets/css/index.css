@@ -31,6 +31,7 @@ div {
 }
 
 .link {
+  font-family: "Jost", sans-serif;
   align-items: center;
   text-align: center;
   margin: 6px;
@@ -42,7 +43,6 @@ div {
 .link:hover {
   margin: 3px;
   font-weight: bold;
-
 }
 
 .botao {
