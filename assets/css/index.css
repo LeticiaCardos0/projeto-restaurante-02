@@ -17,6 +17,7 @@ body {
   font-weight: weight;
   font-style: normal;
   text-indent: 1em;
+  padding-left: 8px;
 }
 
 .peq {
