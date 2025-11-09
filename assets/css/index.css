@@ -5,15 +5,15 @@ body {
   text-align: center;
 }
 
-.caprasimo-regular {
+.titulo{ /*titulo e botao*/
   font-family: "Caprasimo", serif;
   font-weight: 400;
   font-style: normal;
-  text-align: left;
+  text-align: center;
   padding-left: 8px;
 }
 
-.jost-uniquifier {
+.texto {
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;

@@ -6,7 +6,6 @@ body {
 }
 
 a {
-    text-align: left;
     text-decoration: none;
     color: #e7e5dc;
     font-weight: bold;
@@ -23,11 +22,10 @@ h1 {
 }
 table {
     border-radius: 15px;
-    margin: 0 auto;
-    text-align: center;
     overflow: hidden; 
     background-color: #662222;
     border: none;
+    text-align: center;
 }
 
 th {
@@ -35,7 +33,6 @@ th {
     color: #e7e5dc;
     padding: 10px;
     border: none;
-
 }
 
 td {
