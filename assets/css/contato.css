@@ -1,30 +1,49 @@
 body {
     background-color: #e7e5dc;
     margin: 0px;
-    padding: 10px;
+    padding: auto;
 }
 .home {
+    background-color: #662222;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    margin: 0px;
+}
+
+.link {
+    padding: 10px;
+    font-family: "Jost", sans-serif;
+    align-items: center;
+    margin: 6px;
     text-decoration: none;
     color: #e7e5dc;
-    font-family: "Jost", sans-serif;
+    font-size: 17px;
+}
+
+.link:hover {
+    margin: 3px;
     font-weight: bold;
-    padding: 5px;
-    border:none;
-    border-radius: 8px;
-    background-color: #662222;
+    background-color: #e7e5dc2a;
+
 }
 h1{
     font-family: "Caprasimo", serif;
     font-weight: 400;
     font-style: normal;
+    padding-left: 8px;
+
 }
 p,li{
     font-family: "Jost", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+    padding-left: 8px;
     }
 .final{
     font-style: italic;
     font-weight: 500;
+    padding-left: 8px;
+
 }
